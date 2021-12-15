@@ -1,5 +1,13 @@
 # DD2434_Assigment_1
-First assigment in the course DD2434 Machine Learning, Advanced Couse
+The first assigment in the course _DD2434 Machine Learning, Advanced Course_.
+
+This assignment consists of mostly mathematical proofs and touches on the following subjects:
+* Eigen-decomposition
+* PCA
+* SVD
+* MDS
+* Isomap
+
 
 Before running the program all files need to be downloaded and put in the same file. You may need to install the following python libraries:
 pandas,
