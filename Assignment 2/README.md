@@ -2,6 +2,13 @@
 
 This repository contains the code and data files used for assignment 2 in the course DD2434.
 
+This assignment consits of a mixture of mathematical proofs and programming tasks and touches on the following subjects:
+* Directed Graphical Models
+* Likelihoods of Tree Graphical Models
+* Variational Inference (VI)
+* EM algorithms
+* Calculations of exact posteriors
+
 2_2.py is the code used for problem 2.2, regarding the likelihood of a small tree.
 
 2_3.py is the code used for problem 2.3, regarding comparing the VI algorithm to the exact posterior.
